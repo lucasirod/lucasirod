@@ -11,6 +11,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.i.rodriguez.12@gmail.com)
 
 
+
+ <br /> <br /> 
+
+
  <h4>:hammer_and_wrench: Technologies and tools: </h4> 
  <br />
  
