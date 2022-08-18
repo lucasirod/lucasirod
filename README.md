@@ -3,7 +3,7 @@
 - 🌱 23 years old
 - 🌍 Buenos Aires, Argentina
 - 🧠 I'm Electronics Technician, almost Industrial Engineer and also studying Information Systems Engineering
-- 👨‍💻 Currently working as Web Developer at [Kovix](https://).
+- 👨‍💻 Currently working as Web Developer at [Kovix](https://www.kovix.co/).
 - 🔭 Learning everyday, always looking for new challenges
 - 📫 Contact me!
 
